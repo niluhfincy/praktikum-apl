@@ -14,7 +14,7 @@ string bunga[MAX_BUNGA][INFO] = {
 };
 int jumlahBunga = 4;
 
-bool login() {
+int main () {
     string nama, nim;
     int kesempatan = 3;
 
